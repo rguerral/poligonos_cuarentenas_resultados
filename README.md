@@ -14,5 +14,8 @@ En la carpeta /csvs se almacenan un archivo diario con las zonas/comunas en cuar
 
 Los siguientes resultados están solo para la Región Metropolitana:
 * poligonos_cuarentenas_manzanas/: contiene la asignación de manzanas censales a los poligonos de cuarentena.
-* zonas_en_poligonoscuarentena/: contiene la asignación de zonas censales a los poligonos de cuarentena.
+* zonas_en_poligonoscuarentena/: contiene la asignación de zonas censales\** a los poligonos de cuarentena.
+* manzanas_en_poligonoscuarentena/: contiene la asignación de manzanas censales\** a los poligonos de cuarentena.
 * poblacion_en_cuarentena/: contiene la población en cuarentena por día a nivel de comunas y para el total de la RM.
+
+\** Datos censo 2017
